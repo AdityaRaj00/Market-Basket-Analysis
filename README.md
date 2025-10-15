@@ -51,26 +51,26 @@ This script performs the following steps:
   ```bash
         pip install pandas mlxtend matplotlib
 ## ▶️ How to Run
-Clone or download this repository.
+1.Clone or download this repository.
 
-Ensure all required libraries are installed.
+2.Ensure all required libraries are installed.
 
-Open a terminal and navigate to the project directory.
+3.Open a terminal and navigate to the project directory.
 
-Run the script:
+4.Run the script:
 
         python analysis.py
 ## 📈 Results
-After execution, the script will:
+1.After execution, the script will:
 
-Print the one-hot encoded data, frequent itemsets, and the generated association rules to the console.
+2.Print the one-hot encoded data, frequent itemsets, and the generated association rules to the console.
 
-Display a bar chart of the top 5 most frequent items.
+3.Display a bar chart of the top 5 most frequent items.
 
-Create a CSV file named:
+4.Create a CSV file named:
 
         market_basket_rules.csv
-containing the detailed association rules.
+   containing the detailed association rules.
 
 ## 🧱 Tech Stack
 |Component|Technology|
